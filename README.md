@@ -1,7 +1,5 @@
 # Offshore Wind O&M — Reliability-Based Resource Design and Opportunistic Routing
 
-> **Paper:** *Reliability-Based Maintenance Resource Design and Opportunistic Routing Optimization for Offshore Wind Farms under Weather Uncertainty*
-
 ---
 
 ## Overview
